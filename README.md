@@ -30,7 +30,7 @@ Este proyecto es una colección de scripts de automatización que utiliza:
 
 ### 1. Clonar el repositorio
 ```bash
-git clone https://github.com/wiston10/Automatizacion-py.git
+git clone https://github.com/wiston10/automatizacion_connect.git
 cd Automatizacion-py
 ```
 
@@ -183,3 +183,4 @@ Las contribuciones son bienvenidas. Por favor:
 ## 📞 Contacto
 
 Para preguntas o sugerencias, abre un issue en el repositorio de GitHub.
+# automatizacion_connect
