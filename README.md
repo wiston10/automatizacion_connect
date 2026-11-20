@@ -183,4 +183,3 @@ Las contribuciones son bienvenidas. Por favor:
 ## 📞 Contacto
 
 Para preguntas o sugerencias, abre un issue en el repositorio de GitHub.
-# automatizacion_connect
