@@ -1,0 +1,144 @@
+# Entornos virtuales de Python
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Caché de Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# IDEs y editores
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+.project
+.pydevproject
+.settings/
+*.sublime-project
+*.sublime-workspace
+
+# IDE específicos
+*.iml
+.classpath
+.c9/
+*.launch
+.metadata
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+.env.local
+.env.*.local
+
+# Archivos de base de datos locales
+*.db
+*.sqlite
+*.sqlite3
+*.pkl
+*.pickle
+
+# Archivos temporales y de salida
+output/
+formateados/
+*.xlsx
+*.xls
+*.csv
+*.tmp
+*.log
+*.bak
+
+# Archivos específicos del proyecto que contienen datos sensibles
+BD_Sara.xlsx
+BD_WINSTON.xlsx
+BD_Sara_backup.xlsx
+BD_WINSTON_backup.xlsx
+usuarios*.xlsx
+usuarios_prueba.xlsx
+usuarios_nuevos*.xlsx
+copia.xlsx
+prueba.xlsx
+Create MassUpload Punches V1 UKG Pro.xlsm
+
+# Documentos de trabajo y planificación
+*.docx
+*.doc
+GFPI-F-023_*.docx
+*.pdf
+
+# Credenciales y archivos de configuración
+.env
+.env.local
+config.local.*
+secrets.json
+credentials.json
+
+# Compilados y ejecutables
+*.o
+*.a
+*.so
+*.dylib
+*.dll
+*.exe
+
+# Archivo de Firefox
+firefox_profile/
+
+# Ningún archivo de datos real
+data/
+*.csv
+
+# Archivos generados automáticamente
+*.pyc
+.coverage
+htmlcov/
+
+# Directorios de dependencias específicas del SO
+.venv/
+venv/
+ENV/
+
+# Node modules (si se usa con node.js en algún punto)
+node_modules/
+npm-debug.log
+
+# Git
+.git/
+
+# Otros
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+desktop.ini
